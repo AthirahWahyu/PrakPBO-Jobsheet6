@@ -1,8 +1,8 @@
 public class Dosen extends Pegawai {
-    // atribut 
     public String nidn;
-    
-    public Dosen(){
+
+    public Dosen() {
+        System.out.println(gaji);
         System.out.println("Objek dari class Dosen dibuat");
     }
 }

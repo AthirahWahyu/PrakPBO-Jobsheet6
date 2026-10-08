@@ -1,6 +1,6 @@
 public class InheritanceDemo {
     public static void main(String[] args) {
-        Dosen dosen1 = new Dosen(); // Instansiasi objek baru bernama dosen1
+        Dosen dosen1 = new Dosen(); 
 
         dosen1.nama = "Yansy Ayuningtyas";
         dosen1.nip = "34329837";
@@ -9,4 +9,4 @@ public class InheritanceDemo {
 
         System.out.println(dosen1.getInfo());
     }
-} 
+}
