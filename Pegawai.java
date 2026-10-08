@@ -1,4 +1,3 @@
-
 public class Pegawai {
     public String nip;
     public String nama;
